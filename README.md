@@ -36,3 +36,5 @@ I'd like to recieve a message **from you**.
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=graviada&show_icons=true&theme=dark&hide_border=true" alt="Graviada's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graviada&layout=compact" /></a> |
 | ------------- | ------------- |
 
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=graviada)](https://github.com/anuraghazra/github-readme-stats) -->
