@@ -43,6 +43,7 @@ Another sources:
   <a href="https://stackoverflow.com/users/16643965/graviada"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>&nbsp;&nbsp;   
     <a href="https://www.kaggle.com/irinachalova"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>&nbsp;&nbsp; 
 </p>
+<a href="https://platform.stratascratch.com/user/graviada"><img src="https://www.stratascratch.com/static/stratascratch-logo-279d985c5604bff5ed9089ab2aee83c3.svg"></a>
 
 ## 👨‍💻 My Languages
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=graviada&show_icons=true&theme=dark&hide_border=true" width="400" alt="Graviada's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graviada&layout=compact" width="400" height="170" /></a> |
