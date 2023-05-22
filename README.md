@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Barlow&weight=500&duration=3500&pause=100&color=000000&center=true&multiline=true&width=1000&lines=Hi%2C+it's+Irina+Chalova;Nice+to+meet+you)](https://git.io/typing-svg)
-<p align="center"><img width="100%" src="https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663115186_11-mykaleidoscope-ru-p-zlaya-kapibara-krasivo-13.jpg" /></p>
+<p align="center"><img width="100%" src="https://mobimg.b-cdn.net/v3/fetch/88/883dbb0b85e14cad29b5749f6d5abe79.jpeg" /></p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=graviada&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" alt="Arsive" /> </p>
 
 ### Most used language & tools :computer:
